@@ -10,9 +10,9 @@ demonstrates use of a `vector` and several of its methods.
 There are plenty of good/better examples of using `vector`
 on-line.
 
-I'm hoping to also add a solution to Project 1 *Stats and Chats*
-that instead uses several of the STL containers, including `map`,
-also relies on `sort`.
+I've also added a solution to the Project 1 *Stats* program
+that instead uses several of the STL containers, including 
+`unordered_map`, and also relies on `sort`.
 
 
 
